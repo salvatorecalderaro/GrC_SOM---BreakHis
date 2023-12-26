@@ -1,0 +1,15 @@
+Accuracy:
+  Mean: 0.8720837116241456
+  Standard Deviation: 0.020606038290745907
+F1-Score:
+  Mean: 0.9062097191810607
+  Standard Deviation: 0.01539479787838808
+PLA:
+  Mean: 0.8686179942530966
+  Standard Deviation: 0.028868008316623794
+Precision:
+  Mean: 0.9221782326698303
+  Standard Deviation: 0.04215192686641434
+Recall:
+  Mean: 0.8932427644729615
+  Standard Deviation: 0.031899788577087244
