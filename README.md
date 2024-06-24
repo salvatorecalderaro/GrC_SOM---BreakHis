@@ -22,4 +22,17 @@ Run the script classify_som_resnet.py to:
 1. Run the script create_emb.py to train a triplet network and create the embeddings of the training fragments. 
 2. Run the script classify_som.py to cluster the training fragments using a Self-Organizing Map (SOM), classify the testing fragments using the trained SOM  and produce the explanation for the testing images. 
 
-To use this model cite:
+To use this model cite: 
+
+```
+@INPROCEEDINGS{9999098,
+  author={Calderaro, Salvatore and Bosco, Giosuè Lo and Rizzo, Riccardo and Vella, Filippo},
+  booktitle={2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM)}, 
+  title={Deep Metric Learning for Histopathological Image Classification}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={57-64},
+  doi={10.1109/BigMM55396.2022.00016}}
+
+```
