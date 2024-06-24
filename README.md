@@ -25,14 +25,13 @@ Run the script classify_som_resnet.py to:
 To use this model cite: 
 
 ```
-@INPROCEEDINGS{9999098,
-  author={Calderaro, Salvatore and Bosco, Giosuè Lo and Rizzo, Riccardo and Vella, Filippo},
-  booktitle={2022 IEEE Eighth International Conference on Multimedia Big Data (BigMM)}, 
-  title={Deep Metric Learning for Histopathological Image Classification}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={57-64},
-  doi={10.1109/BigMM55396.2022.00016}}
+@article{amato2024explainable,
+  title={Explainable Histopathology Image Classification with Self-organizing Maps: A Granular Computing Perspective},
+  author={Amato, Domenico and Calderaro, Salvatore and Lo Bosco, Giosu{\'e} and Rizzo, Riccardo and Vella, Filippo},
+  journal={Cognitive Computation},
+  pages={1--21},
+  year={2024},
+  publisher={Springer}
+}
 
 ```
