@@ -23,5 +23,3 @@ Run the script classify_som_resnet.py to:
 2. Run the script classify_som.py to cluster the training fragments using a Self-Organizing Map (SOM), classify the testing fragments using the trained SOM  and produce the explanation for the testing images. 
 
 To use this model cite:
-'''
-'''
